@@ -1,0 +1,7 @@
+type Query {
+  hello: String # resolver returns "Hello, World!"
+}
+
+query {
+  hello
+}

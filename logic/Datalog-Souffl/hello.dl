@@ -1,0 +1,3 @@
+.decl greeting(s: symbol)
+.output greeting(IO=stdout)
+greeting("Hello, World!").

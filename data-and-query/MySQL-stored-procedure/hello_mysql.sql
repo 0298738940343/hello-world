@@ -1,0 +1,7 @@
+DELIMITER //
+CREATE PROCEDURE hello()
+BEGIN
+  SELECT 'Hello, World!';
+END //
+DELIMITER ;
+CALL hello();

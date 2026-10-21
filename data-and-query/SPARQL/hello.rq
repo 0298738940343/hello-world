@@ -1,0 +1,1 @@
+SELECT ?greeting WHERE { BIND("Hello, World!" AS ?greeting) }

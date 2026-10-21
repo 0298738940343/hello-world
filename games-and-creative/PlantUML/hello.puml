@@ -1,0 +1,3 @@
+@startuml
+Alice -> World : Hello, World!
+@enduml

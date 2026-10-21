@@ -1,0 +1,4 @@
+/* pair with <body></body> */
+body::before {
+  content: "Hello, World!";
+}

@@ -456,7 +456,7 @@ Each language has its own folder: `<category>/<language>/<file>`.
 
 ## Contributing
 
-Missing a language? Add a folder `<category>/<Language>/hello.<ext>` that prints `Hello, World!`.
+Missing a language ? Add a folder `<category>/<Language>/hello.<ext>` that prints `Hello, World!`.
 
 ## License
 

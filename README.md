@@ -1,4 +1,4 @@
-# Hello, World! in 357 languages and formats
+# Hello World! in 357 languages and formats
 
 The same Hello World written in 357 programming languages, plus a few markup, data and config formats. It goes from C to COBOL, from x86 boot sectors to Malbolge, and includes HolyC, the language Terry A. Davis wrote for TempleOS.
 
